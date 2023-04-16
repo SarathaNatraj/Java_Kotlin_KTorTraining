@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LambdaFunctionsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-24T09:02:38" hostname="ADMIN" time="2.313">
+  <properties/>
+  <testcase name="Verify calls()" classname="LambdaFunctionsTest" time="2.313"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
