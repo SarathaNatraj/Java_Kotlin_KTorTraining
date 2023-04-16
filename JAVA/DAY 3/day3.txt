@@ -1,0 +1,12 @@
+oops - inheritance, composition, encapsulation.,polymoriphism, type conversion (implicit, explicit), Casting(Upcasting,downcasting), wrapper classes, strings
+
+
+use cases - 7 to 8
+
+
+
+
+java.lang
+java.util
+java.io
+javax.sql
